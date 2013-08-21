@@ -79,3 +79,11 @@
 .text-uppercase {
   text-transform: uppercase;
 }
+
+.text-dashed-border {
+  border-bottom: 1px dashed #ccc;
+}
+
+.text-solid-border {
+  border-bottom: 1px solid #ccc;
+}
