@@ -4,8 +4,7 @@
 
 // Bold blue style
 .text-1 {
-  //color: $light-blue;
-  font-weight: bold;
+  color: #444;
 }
 
 // Lighter text style
@@ -73,11 +72,11 @@
 // Bloxkquotes
 .bq {
   margin: 0;
+}
 
-  > p,
-  .cite {
-    display: inline;
-  }
+.bq > p,
+.bq .cite {
+  display: inline;
 }
 
 .text-uppercase {
